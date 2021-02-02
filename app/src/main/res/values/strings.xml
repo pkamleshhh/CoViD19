@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">CoViD-19</string>
+    <string name="confirmed_cases">Confirmed Cases</string>
+    <string name="data">--</string>
+    <string name="covid_track">CoVid Track</string>
+    <string name="active_cases">Active Cases</string>
+    <string name="recovered_cases">Recovered</string>
+    <string name="death_count">Death Count</string>
+    <string name="state">State</string>
+    <string name="district">District</string>
+    <string name="search">Search</string>
+    <string name="not_available">Not Available</string>
+    <string name="api_key">changeme</string>
+    <string name="empty_field">Empty Field</string>
+    <string name="stats">Stats</string>
+    <string name="help">Help</string>
+    <string name="news">News</string>
+    <string name="search_country">Search Country</string>
+    <string name="covid_19">CoViD-19</string>
+    <string name="home_para">If you are having these symptoms, please get yourself tested</string>
+    <string name="check_statistics">Check Statistics</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_statistics">StatisticsActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="home">Home</string>
+    <string name="call_now">Call Now</string>
+    <string name="message">Message</string>
+    <string name="critical_cases">Critical Cases</string>
+    <string name="home_page_string">Coronavirus disease (COVID-19) is an infectious
+        disease caused by a newly discovered coronavirus.</string>
+    <string name="home_page_string_2">For more information you can visit </string>
+    <string name="select_a_district">Select a district</string>
+    <string name="critical_case">Critical Case</string>
+    <string name="top_headlines">Top Headlines</string>
+    <string name="no_data_received">No Data Received</string>
+    <string name="Probability">99%\n70%\n59%\n40%\n35%\n31%\n27%</string>
+    <string name="symptoms">Fever\nFatigue\nCough\nLack of appetite\nBody aches\nShortness of breath\nMucus/phlegm</string>
+    <string name="general_information_title">General Information</string>
+    <string name="general_information">Coronavirus disease (COVID-19) is an infectious disease
+        caused by a newly discovered coronavirus.\n\nMost people infected with the COVID-19 virus will
+        experience mild to moderate respiratory illness and recover without requiring special treatment.
+        Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease,
+        and cancer are more likely to develop serious illness.\n\nThe best way to prevent and slow down transmission is be well
+        informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face.</string>
+    <string name="preventions">To prevent the spread of COVID-19:\n
+○ Clean your hands often. Use soap and water, or an alcohol-based hand rub.\n
+○ Maintain a safe distance from anyone who is coughing or sneezing.\n
+○ Wear a mask when physical distancing is not possible.\n
+○ Don’t touch your eyes, nose or mouth.\n
+○ Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.\n
+○ Stay home if you feel unwell.\n
+If you have a fever, cough and difficulty breathing, seek medical attention.</string>
+</resources>
