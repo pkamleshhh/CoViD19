@@ -11,7 +11,6 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import com.example.covid_19.R
-import com.example.covid_19.modal.StateDataList
 import com.example.covid_19.newsmod.NewsData
 
 

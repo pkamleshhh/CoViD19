@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
         helplineNumber = intent.getStringExtra("HelplineNumber")
         init()
 
-        homeFragment.showParticulars(districtName!!, stateName!!, districtCases, helplineNumber!!)
+        homeFragment.showParticulars(districtName!!, stateName!!, districtCases!!, helplineNumber!!)
         fetchNewsData()
     }
 
@@ -60,6 +60,7 @@ class MainActivity : AppCompatActivity() {
             override fun onFailure(call: Call<NewsData>, t: Throwable) {
                 Log.e("onFailure", t.message.toString())
             }
+
             override fun onResponse(
                 call: Call<NewsData>,
                 response: Response<NewsData>

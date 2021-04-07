@@ -40,7 +40,6 @@ class SplashActivity : AppCompatActivity() {
         requestPermission()
         fetchHelpLineNumbers()
         fetchApiDataCountry()
-
     }
 
     private fun setParticulars() {
@@ -147,6 +146,4 @@ class SplashActivity : AppCompatActivity() {
 
         })
     }
-
-
 }

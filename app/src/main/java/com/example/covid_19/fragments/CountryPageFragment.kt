@@ -143,6 +143,4 @@ class CountryPageFragment : Fragment(), AdapterRvStateList.ItemClicked {
         dialog.setCancelable(true)
         dialog.show()
     }
-
-
 }
